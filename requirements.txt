@@ -1,4 +1,8 @@
 python-dotenv
 pandas
 numpy
-jupyter-notebook
+notebook
+setuptools
+certifi
+
+##-e .
