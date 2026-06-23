@@ -3,3 +3,5 @@ venv
 Loan_Data
 .vscode
 CreditRiskModelling.egg-info
+creditriskmodel\__pycache__
+logs
